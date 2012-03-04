@@ -1,0 +1,14 @@
+<package>
+  <description brief="is4s_esr_android">
+
+     is4s_esr_android
+
+  </description>
+  <author>David Hodo</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/is4s_esr_android</url>
+
+</package>
+
+
