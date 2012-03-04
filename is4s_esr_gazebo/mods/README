@@ -1,0 +1,1 @@
+To add camera to Turtlebot copy turtlebot_kinect.urdf.xarco to /opt/ros/electric/stacks/turtlebot/turtlebot_description/urdf/
