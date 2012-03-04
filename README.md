@@ -14,6 +14,12 @@ _Note: you can change `~/ros_workspace/` to any path you would like._
 
     source setup.bash
 
+### Download and install prerequisites:
+
+    rosinstall $ROS_WORKSPACE "https://raw.github.com/GAVLab/is4s_esr_ros/master/is4s_esr.rosinstall"
+    source setup.bash
+    rosmake rosjava
+
 ### Download the IS4S ESR project with the rosinstall file:
 
     rosinstall $ROS_WORKSPACE "https://raw.github.com/GAVLab/is4s_esr_ros/master/is4s_esr.rosinstall"
