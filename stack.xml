@@ -1,0 +1,9 @@
+<stack>
+  <description brief="is4s-esr-ros">is4s-esr-ros</description>
+  <author>Maintained by David Hodo</author>
+  <license></license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/is4s-esr-ros</url>
+  <depend stack="ros" />
+
+</stack>
