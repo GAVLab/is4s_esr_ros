@@ -1,0 +1,5 @@
+[
+# This repo holds the ROS packages for the is4s esr robot and ocu
+{'git': {'local-name': 'is4s_esr_ros', 'uri': 'https://github.com/GAVLab/is4s_esr_ros.git', 'version': 'master'}},
+]
+
